@@ -1,6 +1,4 @@
 RATE_PER_30_MIN = {"standard": 20, "electric": 35, "cargo": 50}
-
-
 def ride_cost(bike_type, minutes, is_subscriber, is_peak):
     if bike_type not in RATE_PER_30_MIN:
         raise ValueError("unknown bike type")
