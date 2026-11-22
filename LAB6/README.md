@@ -1,4 +1,4 @@
-# L6_L7_53 — Bike Share Rental
+
 
 Lab 6: Code and Branch Coverage
 
